@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b85e97cdcbc82f9fcd5ec67190d67164",
+    "revision": "313a95dd4d8a336501747c5e5ae51acb",
     "url": "/index.html"
   },
   {
-    "revision": "0c26aa867861f886b829",
+    "revision": "7dc4ae35abe7429a4cd0",
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "0605caf5b787f795e8be",
+    "revision": "cb53ee8c2c3679de1f17",
     "url": "/static/css/main.78b2d5ec.chunk.css"
   },
   {
-    "revision": "0c26aa867861f886b829",
-    "url": "/static/js/2.ea7c4f1f.chunk.js"
+    "revision": "7dc4ae35abe7429a4cd0",
+    "url": "/static/js/2.82bfcb45.chunk.js"
   },
   {
     "revision": "54f6e2d0ef339619d0a432be7ac0ab75",
-    "url": "/static/js/2.ea7c4f1f.chunk.js.LICENSE"
+    "url": "/static/js/2.82bfcb45.chunk.js.LICENSE"
   },
   {
-    "revision": "0605caf5b787f795e8be",
-    "url": "/static/js/main.fb4ccc44.chunk.js"
+    "revision": "cb53ee8c2c3679de1f17",
+    "url": "/static/js/main.acf37ccc.chunk.js"
   },
   {
     "revision": "fa109d2ecb354f86a5c3",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/AP1_4613.4167555c.jpg"
   },
   {
-    "revision": "7ae17f160bf7159eb62966851510c862",
-    "url": "/static/media/Messenger_Logo_White_RGB.7ae17f16.png"
-  },
-  {
     "revision": "aacbec2372c8bbcdd2b992439af9bbbb",
     "url": "/static/media/Spotify_Logo_RGB_Green.aacbec23.png"
   },
@@ -52,19 +48,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/TransparentLogo.08685ee8.png"
   },
   {
-    "revision": "5d6ea38a769498dfc19fe6389d14db39",
-    "url": "/static/media/f_logo_RGB-Blue_1024.5d6ea38a.png"
+    "revision": "5d56bfa3ac31aaf25b78bf2ef27b756c",
+    "url": "/static/media/f_logo_RGB-Blue_1024op.5d56bfa3.png"
   },
   {
-    "revision": "fc9685182715848864fea96a6a995e6f",
-    "url": "/static/media/iglogo.fc968518.png"
+    "revision": "fb030df659fb1fdc1b67197e68ccd1b1",
+    "url": "/static/media/iglogoop.fb030df6.png"
   },
   {
-    "revision": "746241b264e6ffd92e6c581118762fc9",
-    "url": "/static/media/ndlogo.746241b2.png"
-  },
-  {
-    "revision": "3010b753084392d19df9ccc7bddae989",
-    "url": "/static/media/smileRem.3010b753.jpg"
+    "revision": "82d994cc097c9f726bc798943033f8e0",
+    "url": "/static/media/smileRemop.82d994cc.png"
   }
 ]);

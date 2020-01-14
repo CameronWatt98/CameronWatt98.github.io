@@ -1,35 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.78b2d5ec.chunk.css",
-    "main.js": "/static/js/main.fb4ccc44.chunk.js",
-    "main.js.map": "/static/js/main.fb4ccc44.chunk.js.map",
+    "main.js": "/static/js/main.acf37ccc.chunk.js",
+    "main.js.map": "/static/js/main.acf37ccc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c911de06.js",
     "runtime-main.js.map": "/static/js/runtime-main.c911de06.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.ea7c4f1f.chunk.js": "/static/js/2.ea7c4f1f.chunk.js",
-    "static/js/2.ea7c4f1f.chunk.js.map": "/static/js/2.ea7c4f1f.chunk.js.map",
+    "static/js/2.82bfcb45.chunk.js": "/static/js/2.82bfcb45.chunk.js",
+    "static/js/2.82bfcb45.chunk.js.map": "/static/js/2.82bfcb45.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.00295137d9157991f253958cb3c93be5.js": "/precache-manifest.00295137d9157991f253958cb3c93be5.js",
+    "precache-manifest.8bb7929353a592205435c29e6ebe5569.js": "/precache-manifest.8bb7929353a592205435c29e6ebe5569.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.78b2d5ec.chunk.css.map": "/static/css/main.78b2d5ec.chunk.css.map",
-    "static/js/2.ea7c4f1f.chunk.js.LICENSE": "/static/js/2.ea7c4f1f.chunk.js.LICENSE",
+    "static/js/2.82bfcb45.chunk.js.LICENSE": "/static/js/2.82bfcb45.chunk.js.LICENSE",
     "static/media/AP1_4531.jpg": "/static/media/AP1_4531.0afcb0f3.jpg",
     "static/media/AP1_4595.jpg": "/static/media/AP1_4595.f21cd7c8.jpg",
     "static/media/AP1_4613.jpg": "/static/media/AP1_4613.4167555c.jpg",
-    "static/media/Messenger_Logo_White_RGB.png": "/static/media/Messenger_Logo_White_RGB.7ae17f16.png",
     "static/media/Spotify_Logo_RGB_Green.png": "/static/media/Spotify_Logo_RGB_Green.aacbec23.png",
     "static/media/TransparentLogo.png": "/static/media/TransparentLogo.08685ee8.png",
-    "static/media/f_logo_RGB-Blue_1024.png": "/static/media/f_logo_RGB-Blue_1024.5d6ea38a.png",
-    "static/media/iglogo.png": "/static/media/iglogo.fc968518.png",
-    "static/media/ndlogo.png": "/static/media/ndlogo.746241b2.png",
-    "static/media/smileRem.jpg": "/static/media/smileRem.3010b753.jpg"
+    "static/media/f_logo_RGB-Blue_1024op.png": "/static/media/f_logo_RGB-Blue_1024op.5d56bfa3.png",
+    "static/media/iglogoop.png": "/static/media/iglogoop.fb030df6.png",
+    "static/media/smileRemop.png": "/static/media/smileRemop.82d994cc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c911de06.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.ea7c4f1f.chunk.js",
+    "static/js/2.82bfcb45.chunk.js",
     "static/css/main.78b2d5ec.chunk.css",
-    "static/js/main.fb4ccc44.chunk.js"
+    "static/js/main.acf37ccc.chunk.js"
   ]
 }
