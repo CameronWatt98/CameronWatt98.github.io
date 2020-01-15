@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecb4ce187af4849740d8cfee9eac1032",
+    "revision": "c77a9478f9ce9d1b26d08f9df1213cb0",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "0057c65bbc8f9c77167d",
-    "url": "/static/css/main.3470e099.chunk.css"
+    "revision": "af24b737c6f4c60ed92e",
+    "url": "/static/css/main.14595b9e.chunk.css"
   },
   {
     "revision": "bd02e384e4e0ffef51cd",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ca84e21a.chunk.js.LICENSE"
   },
   {
-    "revision": "0057c65bbc8f9c77167d",
-    "url": "/static/js/main.92fa269c.chunk.js"
+    "revision": "af24b737c6f4c60ed92e",
+    "url": "/static/js/main.aaba4c9f.chunk.js"
   },
   {
     "revision": "fa109d2ecb354f86a5c3",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Spotify_Logo_RGB_Green.aacbec23.png"
   },
   {
-    "revision": "08685ee8d03c9225118ce439d463a32c",
-    "url": "/static/media/TransparentLogo.08685ee8.png"
+    "revision": "7d24e66c3a1ada89be2f66715c1b9dcf",
+    "url": "/static/media/TransparentLogo.7d24e66c.ico"
   },
   {
     "revision": "4942c03490116f7459574dc82a09700a",
