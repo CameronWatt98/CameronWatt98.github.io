@@ -1,32 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.3470e099.chunk.css",
-    "main.js": "/static/js/main.f7e99dd2.chunk.js",
-    "main.js.map": "/static/js/main.f7e99dd2.chunk.js.map",
+    "main.js": "/static/js/main.a7067a73.chunk.js",
+    "main.js.map": "/static/js/main.a7067a73.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c911de06.js",
     "runtime-main.js.map": "/static/js/runtime-main.c911de06.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.82bfcb45.chunk.js": "/static/js/2.82bfcb45.chunk.js",
-    "static/js/2.82bfcb45.chunk.js.map": "/static/js/2.82bfcb45.chunk.js.map",
+    "static/js/2.2294ee93.chunk.js": "/static/js/2.2294ee93.chunk.js",
+    "static/js/2.2294ee93.chunk.js.map": "/static/js/2.2294ee93.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8c6443b38c7ff520137ab827c1f83e02.js": "/precache-manifest.8c6443b38c7ff520137ab827c1f83e02.js",
+    "precache-manifest.6e6b9d0a29cd51c98bb7a13c08b2c286.js": "/precache-manifest.6e6b9d0a29cd51c98bb7a13c08b2c286.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.3470e099.chunk.css.map": "/static/css/main.3470e099.chunk.css.map",
-    "static/js/2.82bfcb45.chunk.js.LICENSE": "/static/js/2.82bfcb45.chunk.js.LICENSE",
+    "static/js/2.2294ee93.chunk.js.LICENSE": "/static/js/2.2294ee93.chunk.js.LICENSE",
     "static/media/AP1_4531.jpg": "/static/media/AP1_4531.0afcb0f3.jpg",
     "static/media/AP1_4595.jpg": "/static/media/AP1_4595.f21cd7c8.jpg",
     "static/media/AP1_4613.jpg": "/static/media/AP1_4613.4167555c.jpg",
     "static/media/Spotify_Logo_RGB_Green.png": "/static/media/Spotify_Logo_RGB_Green.aacbec23.png",
     "static/media/TransparentLogo.png": "/static/media/TransparentLogo.08685ee8.png",
     "static/media/iglogoop.png": "/static/media/iglogoop.4942c034.png",
+    "static/media/ndlogo.png": "/static/media/ndlogo.746241b2.png",
     "static/media/smileRemop.png": "/static/media/smileRemop.82d994cc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c911de06.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.82bfcb45.chunk.js",
+    "static/js/2.2294ee93.chunk.js",
     "static/css/main.3470e099.chunk.css",
-    "static/js/main.f7e99dd2.chunk.js"
+    "static/js/main.a7067a73.chunk.js"
   ]
 }
