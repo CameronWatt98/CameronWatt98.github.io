@@ -1,33 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.02a3110d.chunk.css",
-    "main.js": "/static/js/main.813b5df3.chunk.js",
-    "main.js.map": "/static/js/main.813b5df3.chunk.js.map",
+    "main.css": "/static/css/main.6a0a1d37.chunk.css",
+    "main.js": "/static/js/main.db6e1f68.chunk.js",
+    "main.js.map": "/static/js/main.db6e1f68.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c911de06.js",
     "runtime-main.js.map": "/static/js/runtime-main.c911de06.js.map",
     "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.e4251860.chunk.js": "/static/js/2.e4251860.chunk.js",
-    "static/js/2.e4251860.chunk.js.map": "/static/js/2.e4251860.chunk.js.map",
+    "static/js/2.a8d23b75.chunk.js": "/static/js/2.a8d23b75.chunk.js",
+    "static/js/2.a8d23b75.chunk.js.map": "/static/js/2.a8d23b75.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.48c4bc77f02813d97d3b8a2d03b15b53.js": "/precache-manifest.48c4bc77f02813d97d3b8a2d03b15b53.js",
+    "precache-manifest.04dfc0572b47cd5a095bfd8f7384c7d9.js": "/precache-manifest.04dfc0572b47cd5a095bfd8f7384c7d9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.02a3110d.chunk.css.map": "/static/css/main.02a3110d.chunk.css.map",
-    "static/js/2.e4251860.chunk.js.LICENSE": "/static/js/2.e4251860.chunk.js.LICENSE",
+    "static/css/main.6a0a1d37.chunk.css.map": "/static/css/main.6a0a1d37.chunk.css.map",
+    "static/js/2.a8d23b75.chunk.js.LICENSE": "/static/js/2.a8d23b75.chunk.js.LICENSE",
     "static/media/AP1_4531.jpg": "/static/media/AP1_4531.0afcb0f3.jpg",
     "static/media/AP1_4595.jpg": "/static/media/AP1_4595.f21cd7c8.jpg",
     "static/media/AP1_4613.jpg": "/static/media/AP1_4613.4167555c.jpg",
+    "static/media/ND-FadeAway-Artwork-1000x1000.jpg": "/static/media/ND-FadeAway-Artwork-1000x1000.40af6a5d.jpg",
+    "static/media/ND-FadeAway-Artwork-1450x1450.jpg": "/static/media/ND-FadeAway-Artwork-1450x1450.666fbf9a.jpg",
+    "static/media/ND-FadeAway-Artwork-Hires.jpg": "/static/media/ND-FadeAway-Artwork-Hires.88afab21.jpg",
     "static/media/Spotify_Logo_RGB_Green.png": "/static/media/Spotify_Logo_RGB_Green.aacbec23.png",
     "static/media/TransparentLogo.ico": "/static/media/TransparentLogo.7d24e66c.ico",
     "static/media/iglogoop.png": "/static/media/iglogoop.4942c034.png",
-    "static/media/ndlogo.png": "/static/media/ndlogo.746241b2.png",
-    "static/media/smileRemop.png": "/static/media/smileRemop.82d994cc.png"
+    "static/media/ndlogo.png": "/static/media/ndlogo.746241b2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c911de06.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.e4251860.chunk.js",
-    "static/css/main.02a3110d.chunk.css",
-    "static/js/main.813b5df3.chunk.js"
+    "static/js/2.a8d23b75.chunk.js",
+    "static/css/main.6a0a1d37.chunk.css",
+    "static/js/main.db6e1f68.chunk.js"
   ]
 }
